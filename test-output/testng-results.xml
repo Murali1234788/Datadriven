@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-06T18:13:55 IST" name="Default suite" finished-at="2025-07-06T18:14:07 IST" duration-ms="12287">
+    <groups>
+    </groups>
+    <test started-at="2025-07-06T18:13:55 IST" name="Default test" finished-at="2025-07-06T18:14:07 IST" duration-ms="12287">
+      <class name="Testscript.Login">
+        <test-method signature="testlogin(java.util.HashMap)[pri:0, instance:Testscript.Login@742ff096]" started-at="2025-07-06T18:13:56 IST" name="testlogin" data-provider="Datareader" finished-at="2025-07-06T18:13:59 IST" duration-ms="2551" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Runmode=Y, ExpectedResult=Failure, Username=Kaliurundai@gmail.com, Browser=Chrome, Password=Jayapriya@1998}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testscript.Login@742ff096]" started-at="2025-07-06T18:13:59 IST" name="teardown" finished-at="2025-07-06T18:13:59 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="testlogin(java.util.HashMap)[pri:0, instance:Testscript.Login@742ff096]" started-at="2025-07-06T18:13:59 IST" name="testlogin" data-provider="Datareader" finished-at="2025-07-06T18:14:04 IST" duration-ms="4886" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Runmode=Y, ExpectedResult=Success, Username=Kaliurundai@gmail.com, Browser=Firefox, Password=Jayapriya@1999}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testscript.Login@742ff096]" started-at="2025-07-06T18:14:04 IST" name="teardown" finished-at="2025-07-06T18:14:04 IST" duration-ms="789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="testlogin(java.util.HashMap)[pri:0, instance:Testscript.Login@742ff096]" started-at="2025-07-06T18:14:04 IST" name="testlogin" data-provider="Datareader" finished-at="2025-07-06T18:14:07 IST" duration-ms="2863" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Runmode=Y, ExpectedResult=Success, Username=Kaliurundai@gmail.com, Browser=Edge, Password=Jayapriya@1999}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testscript.Login@742ff096]" started-at="2025-07-06T18:14:07 IST" name="teardown" finished-at="2025-07-06T18:14:07 IST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testscript.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
