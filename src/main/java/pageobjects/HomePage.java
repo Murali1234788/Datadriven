@@ -34,4 +34,5 @@ public class HomePage {
 		WebElement clickonProducts = null;
 		clickonProducts.click();
 	}
+// End step.
 }
