@@ -36,4 +36,7 @@ public class HomePage {
 	}
 	
 	// Final Step code.
+=======
+// End step.
+>>>>>>> 86b1ff4cb5690d6f234b73d717d129ebfff1b47f
 }
