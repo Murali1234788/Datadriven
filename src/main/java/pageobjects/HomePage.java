@@ -28,4 +28,10 @@ public class HomePage {
 	{
 		clickonaccdropmenu.click();
 	}
+	
+	public void clickonProducts()
+	{
+		WebElement clickonProducts = null;
+		clickonProducts.click();
+	}
 }
